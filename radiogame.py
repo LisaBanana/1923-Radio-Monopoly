@@ -8,7 +8,7 @@ Created on Sat Jan 7 12:51:34 2019
 1923 RADIO MONOPOLY
 Genres: RPG, strategy, educational
 
-Desription: You think you know 1923? You think you're so cool that you're the bee's knees?
+Description: You think you know 1923? You think you're so cool that you're the bee's knees?
 Horsefeathers! Relive the Roaring Twenties experience as a DC radio mogul under direct
 appointment of the Illuminati (or under direction of the United States Secret Service) to
 prepare for "Great Struggles to Come" by bringing as many people as possible in the nation

@@ -19,7 +19,7 @@ Use the references provided to you to type in the name of a city to attempt a ta
 You can start by typing in 'washington' to develop your radio station.
 
 Suggested citation as computer software for reference:
-Pan, Alan J. (2018). 1923 Radio Monopoly [Computer software]. Github repository <https://github.com/alanjpan/1923-Radio-Monopoly>
+Pan, Alan J. (2019). 1923 Radio Monopoly [Computer software]. Github repository <https://github.com/alanjpan/1923-Radio-Monopoly>
 
 Note this software's license is GNU GPLv3.
 """
